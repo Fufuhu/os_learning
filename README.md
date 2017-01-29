@@ -1,1 +1,3 @@
 # os_learning
+
+Openshiftについていろいろメモっていく。
